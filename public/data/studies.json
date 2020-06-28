@@ -1,0 +1,20 @@
+{
+	"title" : "Estudios",
+	"studies" : [
+		{
+			"timeperiod" : "Agosto 2014 - Junio 2017",
+			"company" : "Berufsschulzentrum 7",
+			"description" : "Formación Profesional Elektroniker en Alemania. Formación basada en instalaciones electricas, dispositivos electrónicos y automatización mediante Logo, KNX y SPS."
+		},
+		{
+			"timeperiod" : "Mayo 2014 - Junio 2017",
+			"company" : "Die Akademie y LBW Aus- und Fortbildungsgesell- schaft GmbH",
+			"description" : "Curso de Aleman de 0 hasta el nivel C1"
+		},
+		{
+			"timeperiod" : "Septiembre 2018 - Actualmente",
+			"company" : "Universitat Oberta de Catalunya",
+			"description" : "Grado de Ingeniería Informatica"
+		}
+	]
+}

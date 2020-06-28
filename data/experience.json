@@ -1,0 +1,20 @@
+{
+	"title" : "Experiencia",
+	"experience" : [
+		{
+			"timeperiod" : "May 2001 - Agosto 2008",
+			"company" : "Maderas Servera",
+			"description" : "Carpintero Oficial de 2ª. Montador de armarios, cocinas, parquet y muebles a medida. Dependiente y encargado de compras en ferretería. Comercial y diseñador de Cocinas y Armarios."
+		},
+		{
+			"timeperiod" : "Septiembre 2008 - Abril 2013",
+			"company" : "Informática Tur",
+			"description" : "Técnico informático: Reparación, montaje e instalación de equipos informáticos."
+		},
+		{
+			"timeperiod" : "Junio 2013",
+			"company" : "Informática Tur",
+			"description" : "Técnico informático: Reparación, montaje e instalación de equipos informáticos."
+		}
+	]
+}
