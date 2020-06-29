@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Óscar González Tur</title>
-    <link>https://krontur.github.io/oscargtur/blog/</link>
-    <description>Recent content in Blog on Óscar González Tur</description>
+    <title>Logros on Óscar González Tur</title>
+    <link>https://krontur.github.io/oscargtur/categories/logros/</link>
+    <description>Recent content in Logros on Óscar González Tur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://krontur.github.io/oscargtur/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://krontur.github.io/oscargtur/categories/logros/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Un cambio en mi vida</title>
-      <link>https://krontur.github.io/oscargtur/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://krontur.github.io/oscargtur/blog/creating-a-new-theme/</guid>
-      <description>Introducción </description>
-    </item>
     
     <item>
       <title>Ausbilung terminada</title>
