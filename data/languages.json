@@ -1,0 +1,9 @@
+{
+	"title" : "Idiomas",
+	"languages" : {
+		"Español" : "100",
+		"Catalán" : "80",
+		"Alemán" : "80",
+		"Ingles" : "50"
+	}
+}

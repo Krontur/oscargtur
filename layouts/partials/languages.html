@@ -1,9 +1,9 @@
-{{ $skills := .Site.Data.skills }}
+{{ $languages := .Site.Data.languages }}
 <div class="main-content">
-<section id="skills" class="aqua text-light">
-  <h2 class="heading">{{ $skills.title }}</h2>
+<section id="languages" class="aqua text-light">
+  <h2 class="heading">{{ $languages.title }}</h2>
 
-  {{ range $key, $value := $skills.skills }}
+  {{ range $key, $value := $languages.languages }}
 
   <div class="skill">
     <span class="h6">{{ $key }}</span>
@@ -13,7 +13,4 @@
   </div>
   {{ end }}
 </section>
-<p>
-  
-</p>
 </div>

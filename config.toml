@@ -135,17 +135,23 @@ publishDir = "docs"
   identifier = "fa fa-road"
   weight = 4
 
+  [[menu.main]]
+  name = "Conocimientos"
+  url = "/knowledge/"
+  identifier = "fa fa-book"
+  weight = 5
+
 [[menu.main]]
   name = "Blog"
   url = "/blog/"
   identifier = "fa fa-newspaper-o"
-  weight = 5
-
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
   weight = 6
+
+#[[menu.main]]
+ # name = "Itemized"
+ # url = "/itemized/"
+ # identifier = "fa fa-list"
+ # weight = 7
 
 #[[menu.main]]
  # name = "Categories"
