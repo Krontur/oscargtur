@@ -7,14 +7,19 @@
 			"description" : "Carpintero Oficial de 2ª. Montador de armarios, cocinas, parquet y muebles a medida. Dependiente y encargado de compras en ferretería. Comercial y diseñador de Cocinas y Armarios."
 		},
 		{
-			"timeperiod" : "Septiembre 2008 - Abril 2013",
+			"timeperiod" : "Septiembre 2008 - Octubre 2013",
 			"company" : "Informática Tur",
 			"description" : "Técnico informático: Reparación, montaje e instalación de equipos informáticos."
 		},
 		{
-			"timeperiod" : "Junio 2013",
-			"company" : "Informática Tur",
-			"description" : "Técnico informático: Reparación, montaje e instalación de equipos informáticos."
+			"timeperiod" : "Junio 2014 - Junio 2017",
+			"company" : "Elektromontagen Leipzig GmbH",
+			"description" : "Aprendiz para técnico electricista especializado en instalaciones eléctricas y automatización"
+		},
+		{
+			"timeperiod" : "Junio 2017 - Actualidad",
+			"company" : "Elektromontagen Leipzig GmbH",
+			"description" : "Encargado Técnico electricista especializado en instalaciones eléctricas y automatización"
 		}
 	]
 }
