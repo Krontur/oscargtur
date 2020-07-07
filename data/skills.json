@@ -1,9 +1,9 @@
 {
 	"title" : "Habilidades",
 	"skills" : {
-		"Java" : "60",
+		"Java" : "50",
 		"Spring framework" : "40",
-		"PHP" : "40",
-		"JS" : "60"
+		"PHP" : "30",
+		"C" : "40"
 	}
 }

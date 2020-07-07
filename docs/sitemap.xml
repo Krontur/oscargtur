@@ -3,37 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://krontur.github.io/oscargtur/blog/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/categories/cambio/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/categories/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/tags/introducci%C3%B3n/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krontur.github.io/oscargtur/about/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/tags/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/blog/creating-a-new-theme/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,37 +33,26 @@
   </url>
   
   <url>
+    <loc>https://krontur.github.io/oscargtur/blog/</loc>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krontur.github.io/oscargtur/categories/</loc>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://krontur.github.io/oscargtur/categories/logros/</loc>
     <lastmod>2018-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://krontur.github.io/oscargtur/itemized/item1/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/itemized/item2/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/itemized/item3/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/itemized/item4/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krontur.github.io/oscargtur/itemized/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krontur.github.io/oscargtur/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://krontur.github.io/oscargtur/tags/</loc>
   </url>
   
 </urlset>

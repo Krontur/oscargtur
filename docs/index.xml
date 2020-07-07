@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Un cambio en mi vida</title>
-      <link>https://krontur.github.io/oscargtur/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://krontur.github.io/oscargtur/blog/creating-a-new-theme/</guid>
-      <description>Introducción </description>
-    </item>
-    
-    <item>
       <title>Ausbilung terminada</title>
       <link>https://krontur.github.io/oscargtur/blog/goisforlovers/</link>
       <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
@@ -28,42 +19,6 @@
       <guid>https://krontur.github.io/oscargtur/blog/goisforlovers/</guid>
       <description>Todo esfuerzo se ve recompensado   Entrega   Después del 3 años la Ausbildung llegó a su fin, y pese a haberla reducido de 3,5 años a 3 he conseguido mi objetivo. Ahora toca trabajar duro y continuar formandome. El aprendizaje nunca tiene fin.
   Urkunde     Calificaciones   </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 1</title>
-      <link>https://krontur.github.io/oscargtur/itemized/item1/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://krontur.github.io/oscargtur/itemized/item1/</guid>
-      <description>App 1 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 2</title>
-      <link>https://krontur.github.io/oscargtur/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://krontur.github.io/oscargtur/itemized/item2/</guid>
-      <description>App 2 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 3</title>
-      <link>https://krontur.github.io/oscargtur/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://krontur.github.io/oscargtur/itemized/item3/</guid>
-      <description>App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>https://krontur.github.io/oscargtur/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://krontur.github.io/oscargtur/itemized/item4/</guid>
-      <description>App 4 </description>
     </item>
     
   </channel>
