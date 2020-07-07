@@ -147,18 +147,6 @@ publishDir = "docs"
   identifier = "fa fa-newspaper-o"
   weight = 6
 
-#[[menu.main]]
- # name = "Itemized"
- # url = "/itemized/"
- # identifier = "fa fa-list"
- # weight = 7
-
-#[[menu.main]]
- # name = "Categories"
- # url = "/categories/"
- # identifier = "fa fa-sitemap"
- # weight = 
-
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
