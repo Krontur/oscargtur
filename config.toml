@@ -90,9 +90,9 @@ publishDir = "docs"
 [params.intro]
   header    = "Óscar González Tur"
 
-  paragraph = "Una página web donde conocerme mejor"
+  paragraph = "Técnico en electricidad y electrónica"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Soy una persona a la que le gusta aprender y mejorar constantemente, me implico al 100% en todo lo que hago. Siempre busco la forma de optimizar el trabajo y aprovechar los recursos disponibles. A la hora de dirigir equipos escucho las propuestas de los compañeros y escojo las mejores ideas que se adaptan al proyecto e intento siempre aprender de ellos."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
